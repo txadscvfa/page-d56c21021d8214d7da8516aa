@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.ez-carshare.cn/sitemap.xml
